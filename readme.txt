@@ -5,4 +5,4 @@
  Git tracked is change,not a file!
  Git tracks changes of files.
 sdfasdf
-creating a new branch is quick & simple.
+creating a new branch is quick And simple
